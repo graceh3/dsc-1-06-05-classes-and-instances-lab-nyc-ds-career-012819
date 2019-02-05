@@ -1,2 +1,2 @@
-classe Ride():
+class Ride():
   pass
